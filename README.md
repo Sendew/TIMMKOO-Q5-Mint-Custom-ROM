@@ -54,14 +54,12 @@ Important recommendation: do not flash the `preloader` if it appears in another 
 
 Recommended file:
 
-`Q5_MINT_ROM_2026-08-27_GITHUB_RELEASE_FIXED.zip`
+`TIMMKOO_Q5_MINT.zip`
 
 Hashes:
 
 - SHA256: `2D2C8A9D0E1ECE9D0A7BC8CA743A7E8FB94249F6BD558C4214D2FD70F11F9FD2`
 - MD5: `0ECF91A4F7ED6A92EED979A3835329E9`
-
-The previous package without the `FIXED` suffix has been replaced by this one.
 
 ## Notes
 
