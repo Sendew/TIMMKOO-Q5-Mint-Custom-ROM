@@ -1,4 +1,5 @@
 <img width="699" height="799" alt="thumb" src="https://github.com/user-attachments/assets/9f1feb47-a035-4689-8a97-7065e9b8e32e" />
+
 # Q5 Mint ROM
 
 Custom ROM for the Q5 / MT6582 based on Android KitKat, designed as a simple, lightweight, and visually consistent mint-green experience.
@@ -18,7 +19,7 @@ To distinguish this ROM and this specific device, I use the name "Q5 Mint", sinc
 - Mint-green interface, with large text and icons for better readability on a small screen.
 - Adjusted SystemUI with larger clock, battery percentage, and icons, centered and visually cleaner.
 - Music player integrated as the main Home button experience.
-- Boot animation and splash timing adjusted for a smoother startup transition.
+- Boot animation mascot
 - Notes app visually adjusted to match the ROM's mint style.
 - ROOT access already configured.
 - APKs compatible with Android KitKat can still be installed normally when needed.
@@ -50,12 +51,6 @@ Main included files:
 - `userdata.img`
 
 Important recommendation: do not flash the `preloader` if it appears in another package or backup. This release was prepared to update the required ROM components without touching the preloader.
-
-## Release Package
-
-Recommended file:
-
-`TIMMKOO_Q5_MINT.zip`
 
 Hashes:
 
