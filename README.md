@@ -1,3 +1,4 @@
+<img width="699" height="799" alt="thumb" src="https://github.com/user-attachments/assets/9f1feb47-a035-4689-8a97-7065e9b8e32e" />
 # Q5 Mint ROM
 
 Custom ROM for the Q5 / MT6582 based on Android KitKat, designed as a simple, lightweight, and visually consistent mint-green experience.
@@ -74,3 +75,4 @@ Because this is Android 4.4 KitKat, some modern apps may not install or may not 
 - Volume + and - are inverted.
 
 If for any reason you have this problem, correct it before the battery runs out.
+<img width="649" height="527" alt="devices" src="https://github.com/user-attachments/assets/df1c1ed4-5b37-49cb-9cd9-7359c0285182" />
